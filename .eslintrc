@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "react-app"
+  ],
+  "rules": {
+    "no-compare-neg-zero": "error",
+    "no-console": "error",
+    "no-extra-parens": "error",
+    "no-inner-declarations": "error",
+    "no-unexpected-multiline": "error",
+    "eqeqeq": "error"
+  }
+}
